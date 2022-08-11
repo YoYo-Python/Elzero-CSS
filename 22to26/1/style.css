@@ -1,0 +1,31 @@
+body {
+  font-family: sans-serif;
+  font-weight: 100;
+  font-size: 20px;
+}
+
+.one {
+  border: solid 5px orangered;
+  padding: 100px;
+  text-align: center;
+  margin: 30px;
+}
+
+.one p {
+  background-color: #dddddd;
+  padding: inherit;
+  border: inherit;
+}
+
+.two {
+  border: solid 5px lightseagreen;
+  padding: 100px;
+  text-align: center;
+  margin: 30px;
+}
+
+.two p {
+  background-color: #dddddd;
+  padding: inherit;
+  border: inherit;
+}

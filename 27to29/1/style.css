@@ -1,0 +1,59 @@
+* {
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: 700;
+}
+
+.parentContainer {
+  max-width: 800px;
+  overflow: hidden;
+  margin: 20px auto;
+  background-color: #eee;
+}
+.full {
+  background-color: #dddddd;
+  margin: 15px;
+  text-align: center;
+  padding: 15px 0;
+}
+
+.third {
+  margin-right: 15px;
+}
+.clear {
+  clear: both;
+}
+.third div {
+  background-color: #dddddd;
+  margin-left: 15px;
+  float: left;
+  width: calc((100% - 45px) / 3);
+  text-align: center;
+  padding: 15px 0;
+  margin-bottom: 15px;
+}
+
+.halves {
+  margin-right: 15px;
+}
+.halves div {
+  background-color: #dddddd;
+  margin-left: 15px;
+  float: left;
+  width: calc((100% - 30px) / 2);
+  text-align: center;
+  padding: 15px 0;
+  margin-bottom: 15px;
+}
+
+.quarter {
+  margin-right: 15px;
+}
+.quarter div {
+  background-color: #dddddd;
+  margin-left: 15px;
+  float: left;
+  width: calc((100% - 60px) / 4);
+  text-align: center;
+  padding: 15px 0;
+  margin-bottom: 15px;
+}
