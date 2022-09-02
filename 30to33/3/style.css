@@ -1,0 +1,20 @@
+.heading {
+  background-color: #eeeeee;
+  list-style: none;
+  padding: 5px;
+  width: 300px;
+  margin: 0 auto;
+  margin-bottom: 10px;
+  font-family: sans-serif;
+}
+
+.html li,
+.css li,
+.js li {
+  background-color: white;
+  padding: 5px;
+  margin: 5px;
+}
+
+.css li {
+}
